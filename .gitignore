@@ -1,0 +1,9 @@
+**node_modules
+__tests__/coverage/
+__tests__/coverage/**
+ 
+# Ignore test-related files
+/coverage.data
+/coverage/
+ 
+*.env
